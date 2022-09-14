@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{780F136A-D83F-6325-96D9-2AB507E28714}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GM.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SolarSystem/Mercury.cs" Line="25" Column="50" />
+      <File FileName="Assets/Scripts/SolarSystem/Uranus.cs" />
+      <File FileName="Assets/Scripts/SolarSystem/Mars.cs" />
+      <File FileName="Assets/Scripts/SolarSystem/Earth.cs" />
+      <File FileName="Assets/Scripts/SolarSystem/Venus.cs" />
+      <File FileName="Assets/Scripts/SolarSystem/Saturn.cs" />
+      <File FileName="Assets/Scripts/SolarSystem/Pluto.cs" />
+      <File FileName="Assets/Scripts/SolarSystem/Jupiter.cs" />
+      <File FileName="Assets/Scripts/SolarSystem/Neptune.cs" />
+      <File FileName="Assets/Scripts/SecondPortal.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Asteroid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GM.cs" Line="73" Column="51" />
+      <File FileName="Assets/Scripts/SpawnAsteroids.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6072c7a4-0128-41ff-b3b8-4a7a0c356c1b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
